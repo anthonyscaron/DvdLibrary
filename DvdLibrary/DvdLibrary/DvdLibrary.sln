@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.WebApi", "DvdLibrary.WebApi\DvdLibrary.WebApi.csproj", "{16C35026-5447-4814-9954-021DBD181F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C35026-5447-4814-9954-021DBD181F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C35026-5447-4814-9954-021DBD181F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C35026-5447-4814-9954-021DBD181F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C35026-5447-4814-9954-021DBD181F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9CB4C6-98CE-4B6C-92DE-11235DB20040}
+	EndGlobalSection
+EndGlobal
